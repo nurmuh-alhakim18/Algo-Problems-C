@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605654299 source:c:\users\alhak\documents\coding\16 nov\probe\main.c
+	<stdio.h>
+
+1610285962 source:c:\users\alhak\documents\coding\4 januari\probe\main.c
+	<stdio.h>
+	<math.h>
+

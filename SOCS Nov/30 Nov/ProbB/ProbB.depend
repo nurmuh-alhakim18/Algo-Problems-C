@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607260233 source:c:\users\alhak\documents\coding\30 nov\probb\main.c
+	<stdio.h>
+	<string.h>
+

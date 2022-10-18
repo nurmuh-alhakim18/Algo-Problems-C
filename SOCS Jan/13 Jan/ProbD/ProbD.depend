@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610523626 source:c:\users\alhak\documents\coding\13 jan\probd\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
